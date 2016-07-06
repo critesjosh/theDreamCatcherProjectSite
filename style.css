@@ -1,0 +1,40 @@
+body {
+  font-size: 2em;
+  margin-top: 50px;
+}
+
+#logo {
+  height: 100px;
+  width: 100px;
+  float: right;
+  display: inline-block;
+}
+
+#prototypePic {
+  margin-top: 40px;
+  height: 315px;
+  width: 420px;
+}
+
+#appPic {
+  padding-top: 40px;
+  height: 400px;
+  width: 450px;
+}
+
+p {
+  margin-top: 40px;
+}
+
+i {
+  margin-top: 50px;
+}
+
+iframe {
+  margin-top: 50px;
+}
+
+footer {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
